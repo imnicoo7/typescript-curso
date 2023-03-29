@@ -1,3 +1,4 @@
-# typescript-curso
+# Typescript-curso
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-hdmzjf)
+repositorio creado para guardar el curso de typescript visto de Fernado Herrera en Udemy.
+Nicolas Gutierrez
